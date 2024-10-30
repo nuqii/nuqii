@@ -24,12 +24,14 @@ Nobody
 ![nuqii's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuqii&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuqii&layout=compact)
 
+ <hr/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,arduino,html,css,vscode,github,figma,tailwind,git,c" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cloudflare,firebase,visualstudio,unreal,java,nextjs,mysql,flutter" />
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio,gitlab,jquery,nginx,kotlin,laravel,linux,lua,npm,php,postman,py,raspberrypi,robloxstudio,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cloudflare,firebase,visualstudio,unreal,java,nextjs,mysql,flutter,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=gitlab,jquery,nginx,kotlin,laravel,linux,lua,npm,php,postman,py,raspberrypi,robloxstudio,unity" /><br>
 </div>
 
 <br/>
