@@ -13,11 +13,6 @@
 
 </div>
 
-# Who am i ? 🤨
-
-```
-Nobody
-```
 
 # Stats 📊
 
