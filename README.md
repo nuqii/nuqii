@@ -28,5 +28,8 @@ Nobody
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,arduino,html,css,vscode,github,figma,tailwind,git,c" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cloudflare,firebase,mongodb,,java,nextjs,mysql,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,cloudflare,firebase,mongodb,bots,java,nextjs,mysql,flutter" />
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio,gcp,gitlab,heroku,jquery,nginx,kotlin,laravel,linux,lua,npm,php,postgres,postman,py,raspberrypi,react,robloxstudio,replit,threejs,unity,unreal,vercel,visualstudio,vscodium,vue" /><br>
 </div>
+
+<br/>
